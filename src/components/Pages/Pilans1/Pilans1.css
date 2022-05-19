@@ -1,0 +1,56 @@
+.pilans1{
+    padding: 80px 0;
+}
+.pilans1-tablecontainer{
+    width: 1300px !important;
+}
+.pilans1-table-cell{
+    width: 50px !important;
+}
+.pilans1-th{
+    color: #FFFFFF;
+    background: #06BF69 !important;
+}
+.pilans1-table{
+    width: 100%;
+}
+.pilans1-table, .pilans1-th, .pilans1-td {
+    padding: 15px;
+    border: 1px solid #dddddd;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 115%;
+    letter-spacing: 0.01em;
+    font-family: 'Rubik', sans-serif !important;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  tr:nth-child(odd) {
+    background: #F9FAFC;
+  }
+  tr:hover {
+    background-color: #F9FAFC;
+}
+  .pilans1-tabpanels  > .css-19kzrtu{
+    padding: 20px 0 !important;
+}
+.pilans1-p{
+    display: flex;
+    align-items: center;
+    margin: 20px 0 0 20px;
+}
+.pilans1-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    font-family: 'Rubik', sans-serif !important;
+    color: #00264B;
+    margin-left: 10px;
+}
+.pilans1-icons{
+    color: #00264B;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}

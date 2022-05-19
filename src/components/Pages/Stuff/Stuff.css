@@ -1,0 +1,44 @@
+.employees{
+    padding: 80px 0;
+}
+.employes-table-title{
+    background: #FFFFFF !important;
+    font-weight: normal !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+    color: #C1C1C1 !important;
+    font-family: 'Rubik', sans-serif !important;
+    text-align: center !important;
+}
+.employes-table-text{
+    font-weight: normal !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #00264B !important;
+    font-family: 'Rubik', sans-serif !important;
+    text-align: center !important;
+}
+.employes-table-end{
+    text-align: center !important;
+}
+.table-map-bold{
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #00264B !important;
+}
+.table-map-bolds{
+    font-weight: normal !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #00264B !important;
+}
+.table-map-small{
+    font-weight: normal !important;
+    font-size: 13px !important;
+    line-height: 18px !important;
+    color: #C1C1C1 !important;
+}
+.employes-table-container{
+    border-radius: 12px !important;
+}

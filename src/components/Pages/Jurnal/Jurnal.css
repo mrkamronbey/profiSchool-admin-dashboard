@@ -1,0 +1,13 @@
+.jurnal{
+    padding: 80px 0;
+}
+.palan-box{
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 50px;
+}
+.panlal-small-box{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}

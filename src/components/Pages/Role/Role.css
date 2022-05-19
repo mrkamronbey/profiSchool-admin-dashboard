@@ -1,0 +1,55 @@
+.role{
+    padding: 80px 0;
+}
+.role-tabpanels  > .css-19kzrtu{
+    padding: 0 !important;
+}
+.role-tablecell{
+    background: #FFFFFF !important;
+    font-weight: normal !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+    color: #C1C1C1 !important;
+    font-family: 'Rubik', sans-serif !important;
+    text-align: start !important;
+}
+.role-tablescell{
+    font-weight: normal !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #00264B !important;
+    font-family: 'Rubik', sans-serif !important;
+    text-align: start !important;
+}
+.role-tablecontainer{
+    border-radius:0 10px 10px 10px !important;
+}
+.modal-title-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.role-modal-title{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #00264B;
+    font-family: 'Rubik', sans-serif !important;
+}
+.modal-close-btn > i{
+  color: #00264B;
+  font-weight: bold;
+  font-size: 25px;
+}
+.role-modal-select{
+    width: 310px !important;
+}
+.role-modals-btns{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop{
+    background: rgba(0,0,0,0.2) !important;
+}

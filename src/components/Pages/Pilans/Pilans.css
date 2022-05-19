@@ -1,0 +1,16 @@
+.pilans{
+    padding: 80px 0;
+}
+.pilan-tabs{
+    background: rgba(239, 244, 250, 0.5) !important;
+    border-radius: 10px 10px 0px 0px !important;
+    font-weight: normal !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #00264B !important;
+    font-family: 'Rubik', sans-serif !important; 
+}
+.pilan-tab-panel > .css-19kzrtu {
+    padding: 0 0 0 0 !important;
+    font-family: 'Rubik', sans-serif !important;
+}

@@ -1,0 +1,43 @@
+.added1{
+    padding: 80px 0;
+}
+.added1-form-box{
+    margin-top: 72px;
+}
+.added1-tabpanel > .css-19kzrtu{
+    padding: 0 !important;
+}
+.added1-table-container{
+    padding: 0 20px !important;
+}
+.added1-tablecell{
+    background:  #fff !important;
+    font-weight: 500 !important; 
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #00264B !important;
+    text-align: center !important;
+    font-family: 'Rubik', sans-serif !important;
+}
+.added1-tablescell{
+    text-align: center !important;
+    width: 25% !important;
+    background: #fff !important;
+}
+
+.tables-select{
+    width: 200px;
+    outline: none;
+    background: #FFFFFF;
+    border: 2px solid #CED4DA;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    color: #231F20;
+    font-family: 'Rubik', sans-serif;
+}
+.tables-select:focus{
+    border: 2px solid #E87525;
+}
